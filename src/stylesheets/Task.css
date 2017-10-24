@@ -1,0 +1,15 @@
+.Task .heading {
+    display: flex;
+}
+
+.Task .heading div {
+    flex: 1;
+}
+
+.Task .closeIcon {
+    text-align: right;
+}
+
+.Task .closeIcon i{
+    cursor: pointer;
+}
